@@ -2,7 +2,7 @@ package heroes;
 
 import java.io.IOException;
 
-import com.pattern.homework.heroes.HeroInfoInterface;
+import interfaces.HeroInfoInterface;
 
 public class Batman implements HeroInfoInterface{
 

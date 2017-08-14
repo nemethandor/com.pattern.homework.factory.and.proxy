@@ -1,4 +1,4 @@
-package com.pattern.homework.heroes;
+package interfaces;
 
 public interface HeroInterface {
 	String getHero();

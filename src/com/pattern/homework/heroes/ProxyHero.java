@@ -1,5 +1,7 @@
 package com.pattern.homework.heroes;
 
+import interfaces.HeroInterface;
+
 public class ProxyHero implements HeroInterface {
 
 	private RealHero realHero;

@@ -4,6 +4,7 @@ import heroes.Batman;
 import heroes.Flash;
 import heroes.Pumped;
 import heroes.Spiderman;
+import interfaces.HeroInfoInterface;
 
 public class HeroFactory {
 
